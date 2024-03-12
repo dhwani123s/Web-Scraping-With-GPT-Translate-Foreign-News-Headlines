@@ -1,4 +1,4 @@
-# Web-Scraping-With-GPT-Translate-Foreign-News-Headlines
+# Web-Scraping-Foreign-News-Headlines-With-ChatGPT
 Develop Python application for scraping, translating, and summarizing foreign news headlines.
 
 <img src = "https://github.com/dhwani123s/gifs/blob/main/Scraping-News-from-News-Sites-Easily-Full-Guide.jpeg" width = 1000 height = 400/>
